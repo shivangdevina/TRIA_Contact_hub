@@ -4,7 +4,7 @@ A **production-ready frontend-only contact manager** that demonstrates how far y
 Built with **React 18**, **TypeScript**, **Tailwind CSS**, **TanStack Query**, and **IndexedDB** — no backend required today, yet **100% ready to plug into your future API**.
 
 🔗 **Live Demo / One-Click Deploy:**  
-Deploy on Vercel →
+Deploy on Vercel → https://shiavng-tria-contact-hub.vercel.app/
 
 ---
 
