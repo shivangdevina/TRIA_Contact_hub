@@ -32,6 +32,7 @@ git clone https://github.com/your-username/contact-hub.git
 cd contact-hub
 pnpm i               # or npm / yarn
 pnpm dev             # http://localhost:5173
+```
 Push to GitHub, then import into Vercel — **zero config**.
 
 ---
